@@ -1,5 +1,5 @@
-# Flask Image Editing App
-This is a Flask web app that utilizes OpenCV to convert various image files into different formats like JPG, JPEG, PNG, and grayscale. With a user-friendly interface, it offers fast and efficient processing.
+# AI Based Image Editing App
+This is a web app that utilizes OpenCV to convert various image files into different formats like JPG, JPEG, PNG, and grayscale. With a user-friendly interface, it offers fast and efficient processing.
 ```bash
 Key Features
 1. Used Flask, OpenCV
@@ -33,7 +33,3 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## SnapShot
-
-![image](https://github.com/vickytilotia/Flask-Image-Editing-Website/assets/32337899/c22d79cd-5283-4aa7-b1fd-fa57faf97448)
